@@ -1,0 +1,2 @@
+# stepik
+Lesson sintaksis python

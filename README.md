@@ -13,5 +13,3 @@ Lviv IT School: prometheus
 Останні 13 балів можна отримати, склавши фінальний іспит. 
 
 
-
-https://courses.prometheus.org.ua:18090/downloads/2ac4911c6bac4bd39d158ad293477dc2/Certificate.pdf
